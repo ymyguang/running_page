@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ymyguang.github.io/sitemap/sitemap-index.xml
-Host: https://ymyguang.github.io
+Sitemap: https://running-page-pearl-omega.vercel.app/sitemap/sitemap-index.xml
+Host: https://running-page-pearl-omega.vercel.app
