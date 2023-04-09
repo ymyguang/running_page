@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://Google.com',
-    logo: 'https://files.catbox.moe/crwfqd.jpg',
+    logo: 'https://imgse.com/i/ppbKgxI',
     description: 'Personal site and blog',
     navLinks: [
       {
